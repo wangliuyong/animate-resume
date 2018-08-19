@@ -1,0 +1,26 @@
+*{margin: 0;padding-right: 0;box-sizing: border-box}
+#codeWrapper{
+    height: 100vh;
+    padding: 16px;
+}
+#codeTag{
+    height: 100%;
+    overflow: hidden;
+    
+}
+
+
+#content{
+    padding: 15px;
+    height: 100%;
+    overflow: auto;
+    background: #fff;
+}
+@keyframes breath{
+    0%{
+      box-shadow: 0 0 10px rgba(0,0,0,1)
+    }
+    100%{
+      box-shadow: 0 0 10px rgba(0,0,0,0.2)
+    }
+  }

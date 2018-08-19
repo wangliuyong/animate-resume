@@ -1,0 +1,6 @@
+
+.token.selector,
+.token.property,
+.token.punctuation{
+    color: black;
+}
