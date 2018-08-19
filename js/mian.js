@@ -6,7 +6,7 @@ var code1=`/*
 *首先准备一些css样式
 */
 *{
-    transition: all .1s;
+    transition: all 1s;
 }
 html{
     background:#aaa;
